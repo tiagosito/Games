@@ -1,5 +1,7 @@
 extends KinematicBody2D
 
+//Tiagosito Test
+
 onready var rayE = get_node("rayE")
 onready var rayD = get_node("rayD")
 onready var sprite = get_node("sprite")
